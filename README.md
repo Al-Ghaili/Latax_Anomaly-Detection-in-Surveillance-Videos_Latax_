@@ -1,0 +1,1 @@
+# Latax_Anomaly-Detection-in-Surveillance-Videos_Latax_
